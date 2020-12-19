@@ -19,5 +19,5 @@ Addons: Privoxy & DNS Squid<br>
 
 
 Run this command<br><br>
-bash -c "$(wget https://git.io/JIcUq -qO-)"
+bash -c "$(wget https://git.io/JL075 -qO-)"
 
